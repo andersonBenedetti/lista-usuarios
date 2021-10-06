@@ -14,12 +14,6 @@
         <li>
             React-hooks ✔️
         </li>
-        <li>
-            React-components ✔️
-        </li>
-        <li>
-            Styled-components ✔️
-        </li>
     </ul>
 </div>
 
