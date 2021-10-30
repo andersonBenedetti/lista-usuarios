@@ -11,9 +11,6 @@
         <li>
             ReactJS ✔️
         </li>
-        <li>
-            React-hooks ✔️
-        </li>
     </ul>
 </div>
 
